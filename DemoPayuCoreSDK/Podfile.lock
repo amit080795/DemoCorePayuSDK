@@ -1,0 +1,24 @@
+PODS:
+  - PayUIndia-NetworkReachability (1.0.1)
+  - PayUIndia-PayUParams (2.1.0)
+  - PayUIndia-PG-SDK (6.4.0):
+    - PayUIndia-NetworkReachability (~> 1.0)
+    - PayUIndia-PayUParams (~> 2.1)
+
+DEPENDENCIES:
+  - PayUIndia-PG-SDK
+
+SPEC REPOS:
+  trunk:
+    - PayUIndia-NetworkReachability
+    - PayUIndia-PayUParams
+    - PayUIndia-PG-SDK
+
+SPEC CHECKSUMS:
+  PayUIndia-NetworkReachability: 99e69781b3be99d7b713075ab7b73e6d73a153e4
+  PayUIndia-PayUParams: f74526bb45238e6c233953084987451618009b5c
+  PayUIndia-PG-SDK: dda5bb57245f41ce8f84c38512bf7becbdf4de59
+
+PODFILE CHECKSUM: c3476cec764ac8ab45d28fdfb4a10ab9313a13a2
+
+COCOAPODS: 1.11.2
