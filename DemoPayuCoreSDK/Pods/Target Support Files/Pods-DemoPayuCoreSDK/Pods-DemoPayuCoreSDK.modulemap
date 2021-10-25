@@ -1,0 +1,6 @@
+framework module Pods_DemoPayuCoreSDK {
+  umbrella header "Pods-DemoPayuCoreSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

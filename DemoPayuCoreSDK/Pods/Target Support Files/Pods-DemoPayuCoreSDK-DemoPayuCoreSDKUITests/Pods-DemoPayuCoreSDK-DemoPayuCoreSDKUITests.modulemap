@@ -1,0 +1,6 @@
+framework module Pods_DemoPayuCoreSDK_DemoPayuCoreSDKUITests {
+  umbrella header "Pods-DemoPayuCoreSDK-DemoPayuCoreSDKUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
